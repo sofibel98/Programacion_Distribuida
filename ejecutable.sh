@@ -1,0 +1,1 @@
+./mp01 -Dserver.port=10001 com.distribuida.Servidor & ./mp01 -Dserver.port=10002 com.distribuida.Servidor & ./mp01 -Dserver.port=10003 com.distribuida.Servidor & ./mp01 -Dserver.port=10004 com.distribuida.Servidor
